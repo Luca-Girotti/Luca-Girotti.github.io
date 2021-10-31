@@ -68,7 +68,7 @@ nav ul li a:hover::after{
 }
 .text-box h1{
     font-size: 190px;
-    line-height: 160;
+    line-height: 160px;
     margin-left: -10px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
